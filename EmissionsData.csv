@@ -1,0 +1,7 @@
+﻿Stage,Amount Used,Unit,Emission Factor,Unit
+Agriculture Machinery  (Diesal),20,litres,20,kg CO2 eq per litre
+Pesticide Usage,30,lb/acre,30,kg CO2 eq per acre
+Fertilizer Usage,40,lb/acre,40,kg CO2 eq per acre
+Irrigation,50,litres,50,kg CO2 eq per litre
+Transporation (Diesal Trucks),60,litres,60,kg CO2 eq per litre
+Electricity (Wyoming Grid),70,kWh,70,kg CO2 eq per kWh
